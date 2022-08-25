@@ -3,8 +3,8 @@
 <p><img src="img/mask.png" title="ground truth" width="300"><img src="img/sample.gif" title="sample" width="340"><p>
 
 ## Associated Papers
-Feature Importance in a Deep Learning Climate Emulator [ [ArXiV](https://arxiv.org/abs/2108.13203) ] [ [ICLR 2021 Workshop on Modeling Oceans and Climate Change](https://iclr.cc/virtual/2021/workshop/2123) ]
-A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://arxiv.org/abs/2202.11244) ]
+- Feature Importance in a Deep Learning Climate Emulator [ [ArXiV](https://arxiv.org/abs/2108.13203) ] [ [ICLR 2021 Workshop on Modeling Oceans and Climate Change](https://iclr.cc/virtual/2021/workshop/2123) ]
+- A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://arxiv.org/abs/2202.11244) ]
 
 [Xihaier Luo](https://xihaier.github.io/), Balasubramanya T Nadiga, Yihui Ren, Ji Hwan Park, Wei Xu, Shinjae Yoo
 
