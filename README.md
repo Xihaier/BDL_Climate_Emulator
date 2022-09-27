@@ -30,7 +30,7 @@ git clone https://github.com/Xihaier/Near-Term-Climate-Prediction-BDL
 
 The dataset used have been uploaded to Google Drive and can be downloaded with corresponding links.
 
-Link: https://drive.google.com/file/d/1WvzLWcXRvXOXfAk_mqaMAWXxwBhGy8hE/view?usp=sharing
+Link: https://zenodo.org/record/6822275#.YzMpJOyZMeY
 
 
 ## Model
