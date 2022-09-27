@@ -4,7 +4,7 @@
 
 ## Associated Papers
 - Feature Importance in a Deep Learning Climate Emulator [ [ArXiV](https://arxiv.org/abs/2108.13203) ] [ [ICLR 2021 Workshop on Modeling Oceans and Climate Change](https://iclr.cc/virtual/2021/workshop/2123) ]
-- A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://arxiv.org/abs/2202.11244) ]
+- A Bayesian Deep Learning Approach to Near-Term Climate Prediction [ [ArXiV](https://arxiv.org/abs/2202.11244) ] [ [Journal of Advances in Modeling Earth Systems](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003058) ]
 
 [Xihaier Luo](https://xihaier.github.io/), Balasubramanya T Nadiga, Yihui Ren, Ji Hwan Park, Wei Xu, Shinjae Yoo
 
